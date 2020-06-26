@@ -9,6 +9,7 @@ var jwt = require('jsonwebtoken');
 
 // new feature
 // Conventional Commits - fix
+// added new scope
 var index = require('./routes/index');
 var employee = require('./routes/employee');
 
