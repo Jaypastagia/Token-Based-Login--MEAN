@@ -13,7 +13,7 @@ var employee = require('./routes/employee');
 
 var app = express();
 var router = express.Router();
-// testing standard-version pre release test 1 => release
+// testing standard-version pre release test 0.0.3-2
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
